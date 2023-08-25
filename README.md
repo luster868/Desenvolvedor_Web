@@ -1,2 +1,3 @@
 # Desenvolvedor_Web
-Sites criados!
+
+Sites criados diante o curso e faculdade. Teste de aprendizagem!
